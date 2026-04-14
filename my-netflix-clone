@@ -1,0 +1,6 @@
+/my-netflix-clone
+  ├── /frontend            (React code)
+  ├── /backend-java        (Spring Boot code)
+  ├── /backend-ai          (Python code)
+  ├── README.md            (Explanation of the project)
+  └── docker-compose.yml   (Advanced: to run everything with one command)
